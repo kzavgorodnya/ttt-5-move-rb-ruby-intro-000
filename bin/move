@@ -10,4 +10,4 @@ input = gets.strip
 
 
 #
-move (board, board_index, value="X")
+#move (board, board_index, value="X")
